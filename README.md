@@ -1,6 +1,5 @@
 # 👋 Hi, I’m Francisco Antu Almonacid Cammarata.
-- A developer from Argentina with the objective to contribute actively to meaningful projects while continually enhancing my skills. I thrive on learning and pushing boundaries, always seeking new challenges to tackle.
-## 📫 You can reach me through my LinkedIn profile or my Portfolio.
+## 📫 You can reach me on:
 ###  **Porfolio:** [FranciscoAntuAlmonacid](https://franciscoantualmonacid.pythonanywhere.com/)
 ###  **LinkedIn:** [Francisco Almonacid Cammarata](https://www.linkedin.com/in/francisco-almonacid-cammarata543119267/)
 

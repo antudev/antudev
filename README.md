@@ -8,7 +8,8 @@
 
 ## Tecnologies:
 
-##### ![Python](https://github.com/antudev/antudev/assets/146896279/539a3c6f-6327-44fb-8d5a-6e42fa2037eb)![JavaScript](https://github.com/antudev/antudev/assets/146896279/4b74449c-c774-4ad2-a09a-b595227d003e)![HTML](https://github.com/antudev/antudev/assets/146896279/7d8cd661-4a28-4082-a6b7-050005f2c206)![CSS](https://github.com/antudev/antudev/assets/146896279/54a6875c-f70b-422b-badd-e78da926f39f)
+##### ![image](https://github.com/antudev/antudev/assets/146896279/a8df96e3-6332-4f77-a5e5-80ba023fde08) ![image](https://github.com/antudev/antudev/assets/146896279/64d644b0-3c06-4ee7-8b9e-6f8620bd120f)
+![HTML](https://github.com/antudev/antudev/assets/146896279/7d8cd661-4a28-4082-a6b7-050005f2c206)![CSS](https://github.com/antudev/antudev/assets/146896279/54a6875c-f70b-422b-badd-e78da926f39f)
 
 
 ### Frameworks:

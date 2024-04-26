@@ -1,27 +1,22 @@
 # 👋 Hi, I’m Francisco Antu Almonacid Cammarata.
-- A developer from Argentina with a passion for creating and maintaining both personal and enterprise applications. 
-- 👀 My objective is to contribute actively to meaningful projects while continually enhancing my skills. I thrive on learning and pushing boundaries, always seeking new challenges to tackle.
-  
+- A developer from Argentina with the objective to contribute actively to meaningful projects while continually enhancing my skills. I thrive on learning and pushing boundaries, always seeking new challenges to tackle.
 ## 📫 You can reach me through my LinkedIn profile or my Portfolio.
 ###  **Porfolio:** [FranciscoAntuAlmonacid](https://franciscoantualmonacid.pythonanywhere.com/)
 ###  **LinkedIn:** [Francisco Almonacid Cammarata](https://www.linkedin.com/in/francisco-almonacid-cammarata543119267/)
 
 ## Tecnologies:
-
-##### ![image](https://github.com/antudev/antudev/assets/146896279/a8df96e3-6332-4f77-a5e5-80ba023fde08) ![image](https://github.com/antudev/antudev/assets/146896279/64d644b0-3c06-4ee7-8b9e-6f8620bd120f)
-![HTML](https://github.com/antudev/antudev/assets/146896279/7d8cd661-4a28-4082-a6b7-050005f2c206)![CSS](https://github.com/antudev/antudev/assets/146896279/54a6875c-f70b-422b-badd-e78da926f39f)
+##### ![image](https://github.com/antudev/antudev/assets/146896279/a606eea5-8e25-4cbb-a553-abc649c696be) ![image](https://github.com/antudev/antudev/assets/146896279/4eefae9e-96d0-4d50-ba7d-83f058115e58) ![image](https://github.com/antudev/antudev/assets/146896279/5653497c-f3a3-4b50-b6e6-b0d237f39877) ![image](https://github.com/antudev/antudev/assets/146896279/5506a81c-4680-4031-9043-6a175275001f)
 
 
 ### Frameworks:
-##### ![image](https://github.com/antudev/antudev/assets/146896279/ba798785-229f-4b38-9725-3c9674e79264)![image](https://github.com/antudev/antudev/assets/146896279/493e968d-8e68-42b9-ab70-e24766da9fb5)
-
+##### ![image](https://github.com/antudev/antudev/assets/146896279/02a642ee-d128-4190-a9e2-feb92b6e1da4) ![image](https://github.com/antudev/antudev/assets/146896279/39b985b3-980d-4ccc-ab05-1ec388d1a4ae)
 
 ### Data bases:
-##### ![Postgre](https://github.com/antudev/antudev/assets/146896279/703a0ebe-3011-47cb-9bac-f59ffd9fedf3)![Mongo](https://github.com/antudev/antudev/assets/146896279/cc58dc66-82b9-479a-90df-5e046858e8b2)![Mysql](https://github.com/antudev/antudev/assets/146896279/4e6d3a0a-5606-427c-8836-2c35419c1d0e)
-
+##### ![image](https://github.com/antudev/antudev/assets/146896279/f6b71f25-d740-47fd-a549-ad7d0fee3db9) ![image](https://github.com/antudev/antudev/assets/146896279/5d392a82-28af-45f6-a322-8f151a32d20c)
 
 ## Learning:
-##### ![REACT](https://github.com/antudev/antudev/assets/146896279/c7c1e1e8-05fe-4570-afaf-501e784d1dda)![Ruby](https://github.com/antudev/antudev/assets/146896279/53b238e5-8962-459c-93ee-7d00e4dc4fae)  ![image](https://github.com/antudev/antudev/assets/146896279/5ddf0d10-2ae2-40ad-95a4-011469f24749) ![Solidity](https://github.com/antudev/antudev/assets/146896279/c2378e9f-8463-4480-b955-7e5a10b0a858)
+##### ![image](https://github.com/antudev/antudev/assets/146896279/a3ad3211-79d9-4fe3-b98f-9b9abbd15ce1) ![image](https://github.com/antudev/antudev/assets/146896279/eefcaa1d-2041-4cbc-a536-bdf57d543379) ![image](https://github.com/antudev/antudev/assets/146896279/0ae88b79-370a-4a7b-862e-455ed14304cf) ![image](https://github.com/antudev/antudev/assets/146896279/f99423f7-7f3c-44c5-96a1-c4d44c77e1af)![image](https://github.com/antudev/antudev/assets/146896279/a19eadfd-7e6d-4e1c-94ef-138a7256d5f1)
+
 
 
 #### ⚡ I'm always up for a good challenge, whether it's coding-related or something entirely different!

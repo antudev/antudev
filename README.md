@@ -14,7 +14,7 @@
 ##### ![image](https://github.com/antudev/antudev/assets/146896279/f6b71f25-d740-47fd-a549-ad7d0fee3db9) ![image](https://github.com/antudev/antudev/assets/146896279/5d392a82-28af-45f6-a322-8f151a32d20c)
 
 ## Learning:
-##### ![image](https://github.com/antudev/antudev/assets/146896279/a3ad3211-79d9-4fe3-b98f-9b9abbd15ce1) ![image](https://github.com/antudev/antudev/assets/146896279/eefcaa1d-2041-4cbc-a536-bdf57d543379) ![image](https://github.com/antudev/antudev/assets/146896279/0ae88b79-370a-4a7b-862e-455ed14304cf) ![image](https://github.com/antudev/antudev/assets/146896279/f99423f7-7f3c-44c5-96a1-c4d44c77e1af)![image](https://github.com/antudev/antudev/assets/146896279/a19eadfd-7e6d-4e1c-94ef-138a7256d5f1)
+##### ![image](https://github.com/antudev/antudev/assets/146896279/df7fecb4-612d-4243-bb2b-d9b4a1b035bd)![image](https://github.com/antudev/antudev/assets/146896279/a3ad3211-79d9-4fe3-b98f-9b9abbd15ce1) ![image](https://github.com/antudev/antudev/assets/146896279/eefcaa1d-2041-4cbc-a536-bdf57d543379) ![image](https://github.com/antudev/antudev/assets/146896279/0ae88b79-370a-4a7b-862e-455ed14304cf) ![image](https://github.com/antudev/antudev/assets/146896279/f99423f7-7f3c-44c5-96a1-c4d44c77e1af)![image](https://github.com/antudev/antudev/assets/146896279/a19eadfd-7e6d-4e1c-94ef-138a7256d5f1)
 
 
 
